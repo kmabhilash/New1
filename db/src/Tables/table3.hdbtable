@@ -1,0 +1,6 @@
+COLUMN TABLE table3 (
+    id INTEGER PRIMARY KEY,
+    name NVARCHAR(50),
+    age INTEGER,
+    age2 INTEGER
+);
