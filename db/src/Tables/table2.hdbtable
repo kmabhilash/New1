@@ -1,0 +1,5 @@
+COLUMN TABLE table2 (
+    id INTEGER PRIMARY KEY,
+    name NVARCHAR(50),
+    age INTEGER
+);
